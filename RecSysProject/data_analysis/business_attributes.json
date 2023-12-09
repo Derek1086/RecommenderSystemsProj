@@ -1,0 +1,73 @@
+{
+  "ByAppointmentOnly": [false, true, null],
+  "BusinessAcceptsCreditCards": [false, true, null],
+  "BikeParking": [false, true, null],
+  "RestaurantsPriceRange2": [1, 2, 3, 4, null],
+  "CoatCheck": [false, true, null],
+  "RestaurantsTakeOut": [false, true, null],
+  "RestaurantsDelivery": [false, true, null],
+  "Caters": [false, true, null],
+  "WiFi": ["None", "no", "free", "paid"],
+  "BusinessParking": [
+    ["lot", null], ["garage", null], ["lot", true], ["garage", true], ["validated", false], ["street", null],
+    ["validated", null], ["valet", true], ["street", true], ["validated", true], ["lot", false], ["garage", false],
+    ["valet", false], ["street", false], null
+  ],
+  "WheelchairAccessible": [false, true, null],
+  "HappyHour": [false, true, null],
+  "OutdoorSeating": [false, true, null],
+  "HasTV": [false, true, null],
+  "RestaurantsReservations": [false, true, null],
+  "DogsAllowed": [false, true, null],
+  "Alcohol": ["full_bar", "None", "beer_and_wine", "none"],
+  "GoodForKids": [false, true, null],
+  "RestaurantsAttire": ["casual", "dressy", "None", "formal"],
+  "Ambience": [
+    ["hipster", null], ["intimate", null], ["trendy", null], ["casual", true], ["classy", false], ["romantic", true],
+    ["upscale", false], ["classy", null], ["upscale", null], ["casual", false], ["divey", true], ["touristy", true],
+    ["romantic", false], ["hipster", true], ["intimate", true], ["trendy", true], null, ["casual", null],
+    ["romantic", null], ["touristy", false], ["hipster", false], ["divey", false], ["trendy", false],
+    ["intimate", false], ["classy", true], ["upscale", true], ["divey", null], ["touristy", null]
+  ],
+  "RestaurantsTableService": [false, true, null],
+  "RestaurantsGoodForGroups": [false, true, null],
+  "DriveThru": [false, true, null],
+  "NoiseLevel": ["quiet", "average", "loud", "None", "very_loud"],
+  "GoodForMeal": [
+    ["dessert", true], ["breakfast", false], ["lunch", true], ["breakfast", null], ["dinner", false],
+    ["brunch", true], ["dessert", false], ["dinner", null], ["latenight", true], ["dessert", null], ["lunch", false],
+    ["brunch", false], ["lunch", null], ["latenight", false], ["brunch", null], ["breakfast", true], ["latenight", null],
+    ["dinner", true], null
+  ],
+  "BusinessAcceptsBitcoin": [false, true, null],
+  "Smoking": ["no", "yes", "None", "outdoor"],
+  "Music": [
+    ["jukebox", false], ["live", false], ["karaoke", false], ["dj", true], ["karaoke", null], ["video", true],
+    ["background_music", true], ["dj", false], null, ["jukebox", true], ["jukebox", null], ["video", false],
+    ["background_music", false], ["dj", null], ["live", true], ["live", null], ["karaoke", true], ["no_music", false]
+  ],
+  "GoodForDancing": [false, true],
+  "AcceptsInsurance": [false, true, null],
+  "BestNights": [
+    ["friday", false], ["monday", false], ["sunday", false], ["thursday", true], ["wednesday", true], ["tuesday", true],
+    ["thursday", false], ["tuesday", false], ["wednesday", false], ["saturday", true], ["friday", true], ["monday", true],
+    ["saturday", false], ["sunday", true], null
+  ],
+  "BYOB": [false, true, null],
+  "Corkage": [false, true, null],
+  "BYOBCorkage": ["yes_free", "None", "no", "yes_corkage"],
+  "HairSpecializesIn": [
+    ["asian", false], ["perms", true], ["africanamerican", false], ["straightperms", true], ["coloring", true],
+    ["curly", true], ["kids", true], ["africanamerican", true], ["perms", false], ["straightperms", false],
+    ["extensions", true], ["kids", false], ["asian", true], ["extensions", false], ["coloring", false],
+    ["curly", false], null
+  ],
+  "Open24Hours": [false, true],
+  "RestaurantsCounterService": [false, true],
+  "AgesAllowed": ["allages", "18plus", "21plus"],
+  "DietaryRestrictions": [
+    ["kosher", false], ["halal", false], ["soy-free", true], ["vegetarian", false], ["gluten-free", false],
+    ["vegan", true], ["soy-free", false], ["dairy-free", true], ["vegan", false], ["vegetarian", true], ["halal", true],
+    ["dairy-free", false], ["gluten-free", true], null
+  ]
+}
