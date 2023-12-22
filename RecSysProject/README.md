@@ -241,9 +241,3 @@ review for to make sure we aren't recommending a businesses they most likely vis
 
 We ran out of time to finish the experimentation with the business attributes data. While the time-based CF was functional to a partial degree, we were unable to sufficiently train and test this form of the algorithm in time for the deadline. As such, we stripped some of the code and documentation from the project to present what was completed. Ideally, an attribute-extended algorithm would be feasible given a larger amount of compute resources and time.
 
-### Personal Contributions
-- Derek: Developed the MF and KNN baselines algorithms, and worked on the time-based MF algorithm to recommend businesses to a user using 30 minutes time intervals. Gathered the metrics (MAE, KNN, NDCG) for each algorithm and created charts to visualize the accuracy of these algorithms. 
-
-- Carson: Developed an additional time-based algorithm focused on a CF mechanism using 1 hour time intervals. Carried out EDA operations,
-and performed large-scaled ingesting on the dataset. Architected experimental design and wrote large amounts of 
-documentation while formatting code for readability.
